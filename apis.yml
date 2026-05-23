@@ -1,0 +1,93 @@
+aid: volocopter
+name: Volocopter
+description: >-
+  Volocopter is a German urban air mobility company developing electric
+  vertical take-off and landing (eVTOL) aircraft for passenger and cargo use.
+  Its product portfolio includes VoloCity, a two-seat multicopter air taxi
+  pursued under EASA SC-VTOL certification; VoloRegion, a longer-range
+  fixed-wing transition design for inter-city flights; VoloDrone, a heavy-lift
+  cargo drone; and VoloIQ, a digital operations platform built on Microsoft
+  Azure for fleet, route, and vertiport management. Volocopter has demonstrated
+  flights in numerous cities including Paris, Singapore, Seoul, and Dubai, and
+  worked toward operations around the Paris 2024 Olympics. The company
+  experienced significant financial restructuring in 2024-2025 and ownership
+  changes affecting commercial timelines; current status should be verified
+  against the latest newsroom updates.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.volocopter.com
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Advanced Air Mobility
+  - Aerospace
+  - Air Taxi
+  - Cargo Drones
+  - EASA Certification
+  - eVTOL
+  - Electric Aviation
+  - Germany
+  - Multicopter
+  - Urban Air Mobility
+apis: []
+common:
+  - url: https://www.volocopter.com/
+    name: Volocopter Website
+    type: Website
+  - url: https://www.volocopter.com/en/company/
+    name: About Volocopter
+    type: About
+  - url: https://www.volocopter.com/en/newsroom/
+    name: Newsroom
+    type: Blog
+  - url: https://www.volocopter.com/en/solutions/volocity/
+    name: VoloCity
+    type: Product
+  - url: https://www.volocopter.com/en/solutions/voloregion/
+    name: VoloRegion
+    type: Product
+  - url: https://www.volocopter.com/en/solutions/volodrone/
+    name: VoloDrone
+    type: Product
+  - url: https://www.volocopter.com/en/solutions/voloiq/
+    name: VoloIQ Platform
+    type: Product
+  - url: https://www.volocopter.com/en/careers/
+    name: Careers
+    type: Careers
+  - url: https://www.volocopter.com/en/contact/
+    name: Contact
+    type: Contact
+  - url: https://www.easa.europa.eu/
+    name: EASA (Regulator)
+    type: Regulator
+  - url: https://www.linkedin.com/company/volocopter/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/volocopter
+    name: X (Twitter)
+    type: X
+  - url: https://www.youtube.com/@volocopter
+    name: YouTube
+    type: YouTube
+  - url: https://www.instagram.com/volocopter/
+    name: Instagram
+    type: Instagram
+  - url: https://www.facebook.com/volocopter
+    name: Facebook
+    type: Facebook
+  - url: https://www.volocopter.com/en/imprint/
+    name: Imprint
+    type: Imprint
+  - url: https://www.volocopter.com/en/terms-and-conditions/
+    name: Terms and Conditions
+    type: TermsOfService
+  - url: https://www.volocopter.com/en/privacy-policy/
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
