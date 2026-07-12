@@ -34,6 +34,10 @@ tags:
   - Urban Air Mobility
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/volocopter-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/volocopter-domain-security.yml
   - url: https://www.volocopter.com/
     name: Volocopter Website
     type: Website
