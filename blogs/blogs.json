@@ -3,12 +3,13 @@
   "feeds": [
     {
       "source": "https://www.volocopter.com/en/newsroom/",
-      "feed_url": "",
+      "feed_url": "https://www.volocopter.com/en/newsroom/",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:20:41Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 5,
   "agent_pulled": "2026-06-27"
 }
