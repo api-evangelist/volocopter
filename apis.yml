@@ -13,6 +13,17 @@ description: >-
   experienced significant financial restructuring in 2024-2025 and ownership
   changes affecting commercial timelines; current status should be verified
   against the latest newsroom updates.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
