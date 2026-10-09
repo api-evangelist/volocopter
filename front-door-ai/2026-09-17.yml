@@ -1,0 +1,29 @@
+# Front Door AI Index — volocopter — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: volocopter
+  lexicon_version: '1.0'
+  probed_at: '2026-09-25'
+  host: www.volocopter.com
+  final_host: www.volocopter.com
+  ownership: own
+  owner: volocopter
+  shares_host_with: null
+  inherited_from: null
+  alias_of: null
+  verdict: scored
+  score: 1
+  band: 2
+  band_label: trace
+  host_score: 1
+  density: 2.26
+  words: 443
+  tiers:
+    agentic: 0
+    core: 1
+    model: 0
+  ambiguous: 1
+  top_terms:
+    artificial intelligence: 1
+    intelligence: 1
